@@ -7,7 +7,7 @@ A Java implementation of a Deterministic Finite Automaton (DFA) that recognizes 
 
 This project implements a DFA that specifically recognizes 1 through 5-digit binary palindromes (strings that read the same forwards and backwards). While DFAs cannot recognize arbitrary-length palindromes (which require a pushdown automaton), they can recognize fixed-length palindromes with a carefully designed state machine.
 
-![DFA Visualization](https://i.imgur.com/example.png)
+![DFA Visualization](https://raw.githubusercontent.com/Nicolascresposu/Nicolascresposu.github.io/refs/heads/main/other_repos_images/5lengthbinary/newDFAillust.png)
 
 ## Features
 

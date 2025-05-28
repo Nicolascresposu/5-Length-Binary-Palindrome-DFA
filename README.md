@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
 # Binary Palindrome DFA (5-Length)
 A Java implementation of a Deterministic Finite Automaton (DFA) that recognizes binary palindromes of length 1-5
 
